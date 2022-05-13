@@ -23,7 +23,7 @@ In here we are covering
   </tr>
   <tr>
     <td rowspan="3">CSS ART</td>
-    <td>7</td>
+    <td>may day</td>
     <td> <a href=""> solution</td>  
 <td><a href="">youtube</td> 
   </tr>
