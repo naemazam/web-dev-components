@@ -41,7 +41,7 @@ In here we are covering
   <tr>
     <td rowspan="3">Menu</td>
     <td>Discord Side Nav</td>
-    <td> <a href=""> solution</td>  
+    <td> <a href="menu/discord-side-nav"> solution</td>  
 <td><a href="">youtube</td> 
   </tr>
   <tr>
