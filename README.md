@@ -45,7 +45,7 @@ In here we are covering
 <td><a href="">youtube</td> 
   </tr>
   <tr>
-    <td>2</td>
+    <td>radial nav menu</td>
     <td><a href="">Solution</td>  
     <td><a href="">youtube</td> 
   </tr>
