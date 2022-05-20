@@ -70,4 +70,30 @@ In here we are covering
     <td> <a href=""> solution</td>  
 <td><a href="">youtube</td> 
   </tr>
+    <tr>
+    <td rowspan="5">profile cards</td>
+    <td>Search me on Google</td>
+    <td> <a href="profile%20cards"> solution</td>  
+<td><a href="https://www.youtube.com/watch?v=6WHOaTi5O7c">youtube</td> 
+  </tr>
+  <tr>
+    <td>contact me card</td>
+    <td><a href="profile%20cards">Solution</td>  
+    <td><a href="https://www.youtube.com/watch?v=6WHOaTi5O7c">youtube</td> 
+  </tr>
+  <tr>
+    <td>project profile card</td>
+    <td> <a href="profile%20cards"> solution</td>  
+<td><a href="https://www.youtube.com/watch?v=6WHOaTi5O7c">youtube</td> 
+  </tr>
+    <tr>
+    <td>social profile card</td>
+    <td> <a href="profile%20cards"> solution</td>  
+<td><a href="https://www.youtube.com/watch?v=6WHOaTi5O7c">youtube</td> 
+  </tr>
+    <tr>
+    <td>short profile card</td>
+    <td> <a href="profile%20cards"> solution</td>  
+<td><a href="https://www.youtube.com/watch?v=6WHOaTi5O7c">youtube</td> 
+  </tr>
 </table>
